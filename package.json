@@ -1,0 +1,21 @@
+{
+  "name": "mot-node-js",
+  "version": "0.0.1",
+  "description": "My Own Template",
+  "main": "index.js",
+  "author": {
+    "name": "Luca Panariello",
+    "email": "luca.panariello@gmail.com",
+    "url": "https://lucapanariello.altervista.org"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "template-files-generator": "^1.1.0"
+  }
+}

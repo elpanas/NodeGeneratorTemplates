@@ -1,0 +1,23 @@
+{
+  "templates": {
+    "basic-component": {
+      "name": "Basic Rest Template",
+      "directory": "./templates/basic-template",
+      "variables": {
+        "componentName": {
+          "prompt": "Component name?"
+        }
+      }
+    },
+    "mongo-component": {
+      "name": "Mongo Rest Template",
+      "directory": "./internal/templates/mongo-template",
+      "variables": {
+        "componentName": {
+          "prompt": "Component name?",
+          "defaultCase": "camel"
+        }
+      }
+    }
+  }
+}

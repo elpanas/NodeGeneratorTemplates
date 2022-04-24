@@ -13,9 +13,6 @@
   },
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "template-files-generator": "^1.1.0"
+    "start": "npx template-files-generator"
   }
 }

@@ -1,5 +1,9 @@
 # NodeGeneratorTemplates
 
-1) Install packages with npm init
-2) npx template-files-generator
-3) pick an option
+1) npm start
+2) wait for installation
+3) pick an option template
+4) cd newdirectory
+5) npm init
+
+Enjoy
